@@ -18,6 +18,7 @@ function App() {
       "diagnóstico de fallos": "debugging estructurado",
       "interpretación de esquemas": "análisis de arquitectura de código",
       "soldaduras bga": "testing de componentes críticos",
+      soldadura: "maquetación",
     };
     const result =
       mapping[skill.toLowerCase()] || "Habilidad de Código no mapeada todavía.";
