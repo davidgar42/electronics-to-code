@@ -6,10 +6,6 @@
 [](https://getbootstrap.com/)
 [](https://vercel.com/)
 
-## 🌐 [Ver Demostración en Vivo Aquí]([COLOCAR URL DE VERSEL])
-
------
-
 ##  Motivación del Proyecto
 
 Este proyecto fue desarrollado como parte de mi transición de una carrera de 15 años como Técnico Senior en Electrónica a Desarrollador Full Stack. El objetivo principal es **validar y visualizar la transferencia de mis habilidades analíticas y de resolución de problemas** al dominio del código.
